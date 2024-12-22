@@ -1,4 +1,7 @@
 Analysed stock performance using financial trends and market movement data. Delivered investment insights to support strategic decision-making.
+
+
+
 Dashboard Link:
 https://app.powerbi.com/groups/me/reports/e8b902c2-3ed7-46fc-9311-48659a027
 
